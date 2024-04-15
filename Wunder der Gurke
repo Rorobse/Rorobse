@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Die Wunder der Gurken</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            font-size: 20px;
+        }
+        header {
+            background-image: url('https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.G-Ae_vxC95V7UmrBEnxqfAHaE8%26pid%3DApi');
+            background-size: cover;
+            padding: 100px 0; /* Vertikaler Abstand zum Text erhöht */
+            text-align: center;
+            font-size: 30px;
+            color: white; /* Textfarbe geändert, um besser sichtbar zu sein */
+        }
+        section {
+            padding: 40px;
+            margin: 40px;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            font-size: 24px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            font-size: 18px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Die Wunder der Gurken</h1>
+    </header>
+
+    <section>
+        <h2>Warum sind Gurken so wundervoll?</h2>
+        <p>Gurken sind nicht nur erfrischend, sondern auch reich an Vitaminen und Mineralstoffen. Sie sind vielseitig einsetzbar in der Küche und haben zahlreiche gesundheitliche Vorteile.</p>
+    </section>
+
+    <section>
+        <h2>Rezepte mit Gurken</h2>
+        <p>Entdecken Sie leckere Rezepte mit Gurken, von erfrischenden Salaten bis hin zu erfrischenden Getränken. Hier sind einige beliebte Gurkenrezepte:</p>
+        <ul>
+            <li>Gurkensalat mit Joghurtdressing</li>
+            <li>Gurkenlimonade mit Minze</li>
+            <li>Gurken-Sandwiches mit Frischkäse</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Gurken in der Schönheitspflege</h2>
+        <p>Erfahren Sie, wie Gurken auch in der Schönheitspflege verwendet werden können, um die Haut zu pflegen und zu erfrischen. Probieren Sie diese einfachen Schönheitsanwendungen mit Gurken aus:</p>
+        <ol>
+            <li>Gurkenmaske für das Gesicht</li>
+            <li>Gurkenscheiben für die Augen</li>
+            <li>Gurkenwasser als Gesichtstoner</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Gurkenanbau im eigenen Garten</h2>
+        <p>Tipps und Tricks zum Anbau von Gurken in Ihrem eigenen Garten. Erfahren Sie, wie Sie gesunde und schmackhafte Gurken in Ihrem Garten anbauen können.</p>
+    </section>
+
+    <section>
+        <h2>Weitere interessante Fakten über Gurken</h2>
+        <ul>
+            <li>Gurken bestehen zu etwa 95% aus Wasser, weshalb sie eine erfrischende und hydratisierende Wirkung haben.</li>
+            <li>Es gibt viele verschiedene Sorten von Gurken, darunter die klassische grüne Gurke, aber auch gelbe, weiße und sogar gestreifte Varianten.</li>
+            <li>Gurken enthalten Antioxidantien wie Vitamin C und Beta-Carotin, die helfen können, Zellschäden zu reduzieren und das Immunsystem zu stärken.</li>
+            <li>Gurken sind kalorienarm und eignen sich daher ideal für eine gesunde Ernährung und zum Abnehmen.</li>
+            <li>In einigen Kulturen werden Gurken traditionell als Mittel gegen Kopfschmerzen und zur Beruhigung der Haut verwendet.</li>
+            <li>Gurken sind eine ausgezeichnete Quelle für Vitamin K, das wichtig für die Blutgerinnung und die Knochengesundheit ist.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2021 Die Wunder der Gurken. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
